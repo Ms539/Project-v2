@@ -1,0 +1,13 @@
+.homeBody{
+    background: url("../../dataimg/bckimg.jpg") ;
+    min-height: 55.6rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.talk{
+    color: aliceblue;
+    font-size: 50px;
+}
+
